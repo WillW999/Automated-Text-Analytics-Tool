@@ -15,20 +15,20 @@ Created an automated word cloud generator and sentiment analysis tool, that is u
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Creation of schema and first look at dataset: <br/>
+importing proper libraries: <br/>
 <img src="https://i.imgur.com/8vVVelX.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Importing pyspark and data preperation:  <br/>
-<img src="https://i.imgur.com/24fT9Ns.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Uploading of data csv and word cloud image:  <br/>
+<img src="https://i.imgur.com/YQfhBfe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Logistic Regression Model and feature weights: <br/>
-<img src="https://i.imgur.com/4CBUzOP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Cleaning the data: <br/>
+<img src="https://i.imgur.com/nVxw2Ly.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Using training data to fit model for test data:  <br/>
-<img src="https://i.imgur.com/jc79pom.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Splitting the data by each individual open ended question:  <br/>
+<img src="https://i.imgur.com/fRFw2h9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 5-fold crossvalidator on test data:  <br/>
