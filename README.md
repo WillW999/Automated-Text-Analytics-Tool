@@ -47,8 +47,8 @@ readability analysis:  <br/>
 <img src="https://i.imgur.com/pxE2fiF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-readability analysis:  <br/>
-<img src="https://i.imgur.com/pxE2fiF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+readability analysis graphic:  <br/>
+<img src="https://i.imgur.com/5ipW0xa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
