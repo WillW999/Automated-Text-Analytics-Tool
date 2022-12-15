@@ -31,16 +31,24 @@ Splitting the data by each individual open ended question:  <br/>
 <img src="https://i.imgur.com/fRFw2h9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-5-fold crossvalidator on test data:  <br/>
-<img src="https://i.imgur.com/Kjfzwpg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Word frequency of entire survey:  <br/>
+<img src="https://i.imgur.com/7rWqMqu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creation of decision tree:  <br/>
-<img src="https://i.imgur.com/CqCTL5y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creation of positive word cloud:  <br/>
+<img src="https://i.imgur.com/HFu8CN4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Accuracy metrics:  <br/>
-<img src="https://i.imgur.com/uOlG0Ae.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating of bi-gram word frequency chart:  <br/>
+<img src="https://i.imgur.com/zLKMq89.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+readability analysis:  <br/>
+<img src="https://i.imgur.com/pxE2fiF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+readability analysis:  <br/>
+<img src="https://i.imgur.com/pxE2fiF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
