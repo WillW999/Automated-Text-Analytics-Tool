@@ -1,22 +1,22 @@
-<h1>Supervised ML Spam Email Classifier</h1>
+<h1>Automated Word Cloud and Sentiment Analysis Tool</h1>
 
 <h2>Description</h2>
-Using a dateset of spam and non spam emails I construct a supervised machine learning binary classifier that is able to detect spam emails at 93% accuracy. 
+Created an automated word cloud generator and sentiment analysis tool, that is used to sort through open ended survey question data. This tool was created to help sort through large amounts of open ended text data to show what the most common words and phrases were throughout a particular survey question.  It also shows the overall positive or negative sentiment a particular question has generated.  This tool was automated so that those with no python experience would be able to utilize it.
 <br />
 
 
 <h2>Environment and Packages Used</h2>
 
-- <b>DataBricks</b>
+- <b>Google Colaboratory</b>
 - <b>Pandas</b> 
-- <b>Pyspark</b>
-
+- <b>Natural Language Toolkit (NLTK)</b>
+- <b>Gensim</b>
 
 <h2>Project walk-through:</h2>
 
 <p align="center">
 Creation of schema and first look at dataset: <br/>
-<img src="https://i.imgur.com/lfmMXWV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/LhKTh8V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Importing pyspark and data preperation:  <br/>
