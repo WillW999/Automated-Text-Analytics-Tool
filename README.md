@@ -16,7 +16,7 @@ Created an automated word cloud generator and sentiment analysis tool, that is u
 
 <p align="center">
 Creation of schema and first look at dataset: <br/>
-<img src="https://imgur.com/LhKTh8V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/LhKTh8V" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Importing pyspark and data preperation:  <br/>
