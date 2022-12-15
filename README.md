@@ -1,7 +1,7 @@
-<h1>Automated Word Cloud and Sentiment Analysis Tool</h1>
+<h1>Automated Word Cloud and Sentiment/Readability Analysis Tool</h1>
 
 <h2>Description</h2>
-Created an automated word cloud generator and sentiment analysis tool, that is used to sort through open ended survey question data. This tool was created to help sort through large amounts of open ended text data to show what the most common words and phrases were throughout a particular survey question.  It also shows the overall positive or negative sentiment a particular question has generated.  This tool was automated so that those with no python experience would be able to utilize it.
+Created an automated word cloud generator and sentiment analysis tool, that is used to sort through open ended survey question data. This tool was created to help sort through large amounts of open ended text data to show what the most common words and phrases were throughout a particular survey question.  It also shows the overall positive or negative sentiment a particular question has generated, as well as, the readability.  This tool was automated so that those with no python experience would be able to utilize it.
 <br />
 
 
